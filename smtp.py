@@ -16,7 +16,7 @@ init()
 
 la7mar = '\033[91m'
 lazra9 = '\033[94m'
-la5dhar = '\033[92m'
+lasfar = '\033[92m'
 movv = '\033[95m'
 lasfar = '\033[93m'
 ramadi = '\033[90m'
